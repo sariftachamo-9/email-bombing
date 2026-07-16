@@ -33,7 +33,7 @@ This project enables system administrators to manage and automate email dispatch
 2. **Dashboard Overview**
    ![Dashboard Overview](./static/dashboard.png) *(Placeholder)*
 3. **Settings and Configuration**
-   ![Settings and Configuration](./static/templetes.png) *(Placeholder)*
+   ![Templete's Configuration](./static/templetes.png) *(Placeholder)*
 
 ---
 
